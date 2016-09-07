@@ -7,8 +7,9 @@
 c9.linter.clang is a linter that verifies on the fly whether your source code uses correct C syntax. The linter can be used as a plugin for the [Cloud9 IDE](https://c9.io/).
 
 ## Installation
+> Before using this plugin, ensure that `clang` is installed on your IDE.
 
-(1) Open Cloud9
+(1) Open Cloud9 in debug mode
 ```
 https://ide.c9.io/<username>/dev?debug=2&sdk=1
 ```
